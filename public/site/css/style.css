@@ -1,0 +1,30 @@
+.like_icon{
+	margin:10px 10px 0 0;
+}
+
+.commentArea{
+	resize:none;
+	border:none; 
+	background: none!important;
+	outline: none;
+	overflow: hidden;
+
+}
+.NewcommentArea{
+	resize:vertical; 
+	margin:10px 0;
+
+}
+.like, .dislike{
+	font-size: 1.5em;
+}
+
+
+.liked{
+	color:#337ab7;
+}
+
+.profileImage{
+	border:5px solid #ccd9f5;
+	padding: 5px
+}
